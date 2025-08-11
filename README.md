@@ -1,5 +1,4 @@
 
-```markdown
 # 🛡️ SyckSec — Next-Gen Token Security
 
 **Unbreakable • Unpredictable • Unrecognizable**  
